@@ -1,7 +1,7 @@
 eriktorsner/wp-dump-cmd
 =======================
 
-
+Like standard dump-cmd but active commands are extracted after WordPress is loaded. The standard (built in) version of this command doesn't include commands added by active plugins. This version does.
 
 [![Build Status](https://travis-ci.org/eriktorsner/wp-dump-cmd.svg?branch=master)](https://travis-ci.org/eriktorsner/wp-dump-cmd)
 
